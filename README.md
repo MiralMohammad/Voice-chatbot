@@ -11,7 +11,7 @@ Built with:
 
 ## 📸 Preview
 
-![chatbot Diagram](./chatbot2.jpg)
+![chatbot Diagram](./chatbot2.png)
 *A smart assistant that understands your voice and replies with real speech in Saudi dialect.*
 
 ---
